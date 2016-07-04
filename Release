@@ -1,0 +1,9 @@
+Origin: albyvar repo
+Laber: albyvar repo
+Suite: stable
+Version: 1.0
+Codename: albyvar
+Architectures: iphoneos-arm
+Components: main
+Description: Personal cydia repository
+MD5Sum:
