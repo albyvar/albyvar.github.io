@@ -32,7 +32,7 @@ Package: Lollipop for AppDrawer
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: albyvar.github.io
-Depends: 
+Depends: AppDrawer
 Filename: debs//llappd.deb
 Size: 43840
 MD5sum:1548c85a07f590c752d20b6c21e31497
