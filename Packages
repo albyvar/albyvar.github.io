@@ -1,45 +1,15 @@
-Package: TransparentDock
-Version: 1.1-1
-Architecture: iphoneos-arm
-Maintainer: albyvar.github.io
-Depends: firmware (>7.0)
-Filename: debs//transparentdock.deb
-Size: 3.302
-MD5sum:
-SHA1: 
-SHA256: 
-Section: Tweaks
-Description: Make iOS 7+ dock transparent!
-Author: albyvar.github.io
-Name: TransparentDock
-
-Package: goldrespring
+Package: Soft
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: albyvar.github.io
-Depends: firmware (>7.0)
-Filename: debs//goldrespring.deb
+Maintainer: Alberto Varrica
+Depends: sbsettings
+Filename: debs//Soft.deb
 Size: 1807848
-MD5sum:0b9ad84a2922e0de5fbc6e79ca3a1da4
-SHA1:3af20bb37426298d7e1241b4513f9bd76ecc9332
-SHA256:fe60ab73908e7afb2bec74841fd5b455496fa45fe2082d7c7d566b5f7238109f
-Section: Themes
-Description: Just the iOS 7-8-9 respring logo but gold. Works with both Anemone and Winterboard
+MD5sum: 9DB34F7FAD64E9A2D3A2E9BF65BC6E5E
+SHA1: 85512E808BE1869CC0814E40A7DB80D089710B64
+SHA256: 04E6DF4ACE9D3087C8BE64A6557F4598EEE2AB8038A8A91CDFA1F8AE3023EF34
+Section: Themes(SBSettings)
+Description: A great theme for SBSettings
 Author: albyvar.github.io
-Name: Apple gold respring logo
-
-Package: Lollipop for AppDrawer
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: albyvar.github.io
-Depends: firmware (>7.0)
-Filename: debs//llappd.deb
-Size: 43840
-MD5sum:1548c85a07f590c752d20b6c21e31497
-SHA1:9257faf1b058df502e3dd9ed7d916a5edfcaa2e7
-SHA256:ad424d0ed796693ab5873c62fe217f1541475094b280c0f081c6bfca771e836e
-Section: Themes
-Description: Android Lollipop drawer icon for AppDrawer. Requires AppDrawer installed.
-Author: albyvar.github.io
-Name: Lollipop for AppDrawer
+Name: Soft SBSettings
 
